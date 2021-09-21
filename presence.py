@@ -1,5 +1,4 @@
 import pypresence
-import threading
 from datetime import timedelta
 from datetime import datetime
 from time import time as timer
