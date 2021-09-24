@@ -59,4 +59,4 @@ if __name__ == '__main__':
             presence.update(details=f"System Info of {socket.gethostname()}",state=detail,start=times,buttons=buttons)
             time.sleep(1)
             print("Updated Presence")
-      launcharg()
+    launcharg()
