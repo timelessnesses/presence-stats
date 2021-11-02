@@ -4,7 +4,7 @@ classifiers = []
  
 setup(
   name='pypresence-stats',
-  version='1.7',
+  version='1.8',
   description='Presence-stats but you can make python script and launch it.',
   long_description=open("README.md").read(),
   long_description_content_type='text/markdown',
@@ -14,7 +14,7 @@ setup(
   license='MIT', 
   classifiers=classifiers,
   keywords='Tools', 
-  py_packages=["presencestats"],
+  py_modules=["presencestats"],
   install_requires=["pypresence","psutil"],
   entry_points={
     'console_scripts': ['pypresence=presencestats:launcharg']
