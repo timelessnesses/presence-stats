@@ -4,7 +4,7 @@ classifiers = []
  
 setup(
   name='pypresence-stats',
-  version='1.8',
+  version='1.9',
   description='Presence-stats but you can make python script and launch it.',
   long_description=open("README.md").read(),
   long_description_content_type='text/markdown',
