@@ -14,9 +14,9 @@ setup(
   license='MIT', 
   classifiers=classifiers,
   keywords='Tools', 
-  packages=["presencestats"],
+  py_packages=["presencestats"],
   install_requires=["pypresence","psutil"],
   entry_points={
-    'console_scripts': ['pypresence=presencestats.__init__:launcharg']
+    'console_scripts': ['pypresence=presencestats:launcharg']
   }
 )
