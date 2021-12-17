@@ -8,7 +8,7 @@ setup(
   description='Presence-stats but you can make python script and launch it.',
   long_description=open("README.md").read(),
   long_description_content_type='text/markdown',
-  url='https://redirect.biomooping.tk/HOB1UlWkCg',  
+  url='https://redirect.rukchadisa.live/7SoIfy9ZMa',  
   author='Rukchad Wongprayoon',
   author_email='contact@biomooping.tk',
   license='MIT', 
