@@ -23,7 +23,7 @@ presencestats.launch()
 that's it<br>
 want cli?
 ```bash
-presencestats
+pypresence
 ```
 there.
 =======
